@@ -8,6 +8,7 @@ ip-cidr, 224.0.0.0/4, DIRECT
 ip6-cidr, fe80::/10, DIRECT
 ip-cidr, 203.107.1.1/24, DIRECT
 ip-cidr, 183.240.197.130/32, DIRECT
+host-suffix, .cn, DIRECT
 host-suffix, baidu.com, DIRECT
 host-suffix, qq.com, DIRECT
 host-suffix, nuaa.edu.cn, DIRECT
