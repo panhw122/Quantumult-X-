@@ -17,7 +17,6 @@ host-suffix, sciencedirect.com, DIRECT
 host-suffix, elseviewer.com, DIRECT
 host-suffix, springer.com, DIRECT
 host-suffix, tandfonline.com, DIRECT
-# host-suffix, editorialmanager.com, DIRECT
 host-suffix, apple.com, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, macat.vip, DIRECT
