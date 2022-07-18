@@ -1,5 +1,6 @@
 host-suffix, baidu.com, DIRECT
 host-suffix, qq.com, DIRECT
+host-suffix, 163.com, DIRECT
 host-suffix, nuaa.edu.cn, DIRECT
 host-suffix, webofscience.com, DIRECT
 host-suffix, sciencedirect.com, DIRECT
