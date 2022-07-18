@@ -9,3 +9,5 @@ host-suffix, tandfonline.com, DIRECT
 host-suffix, apple.com, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, macat.vip, DIRECT
+
+host-suffix, yetianlian.com, REJECT
